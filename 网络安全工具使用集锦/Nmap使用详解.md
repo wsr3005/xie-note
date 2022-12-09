@@ -14,7 +14,7 @@
 
 
 
-[nmap  -PE/-PP/-PM](#nmap%20%20-PE/-PP/-PM)
+[nmap  -PE/-PP/-PM](#nmap%20-PE%2f-PP%2f-PM)
 
 
 
@@ -303,7 +303,7 @@ Nmap会发送四种不同类型的数据包来探测目标主机是否在线。
 
 
 
-#### **nmap  -PE/-PP/-PM**
+#### **nmap -PE/-PP/-PM**
 
 
 
